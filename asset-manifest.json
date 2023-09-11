@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/flagproject/static/css/main.8199370d.css",
+    "main.js": "/flagproject/static/js/main.48ce004e.js",
+    "index.html": "/flagproject/index.html",
+    "main.8199370d.css.map": "/flagproject/static/css/main.8199370d.css.map",
+    "main.48ce004e.js.map": "/flagproject/static/js/main.48ce004e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8199370d.css",
+    "static/js/main.48ce004e.js"
+  ]
+}

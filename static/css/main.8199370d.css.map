@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.8199370d.css","mappings":"AAAA,iBAQE,WAAY,CALZ,qBAAsB,CAEtB,aAAc,CADd,YAAa,CAEb,QAAS,CAGT,YAAa,CAFb,SAGF","sources":["index.css"],"sourcesContent":["*,\n*:after,\n*:before {\n  box-sizing: border-box;\n  font: inherit;\n  color: inherit;\n  margin: 0;\n  padding: 0;\n  border: none;\n  outline: none;\n}\n"],"names":[],"sourceRoot":""}
